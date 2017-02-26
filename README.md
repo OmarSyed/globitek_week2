@@ -1,6 +1,6 @@
 # # Project 2 - Input/Output Sanitization
 
-Time spent: **X** hours spent in total
+Time spent: **30** hours spent in total
 
 ## User Stories
 
