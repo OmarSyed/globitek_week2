@@ -6,7 +6,7 @@ Time spent: **30** hours spent in total
 
 The following **required** functionality is completed:
 
-1\. [x ]  Required: Import the Starting Database
+1\. [x]  Required: Import the Starting Database
 
 2\. [x]  Required: Set Up the Starting Code
 
@@ -19,23 +19,23 @@ The following **required** functionality is completed:
   * [ ]  Required: edit.php
 
 5\. [ ]  Required: Complete Staff CMS for States
-  * [x]  Required: index.php
-  * [x]  Required: show.php
-  * [x]  Required: new.php
+  * [ x]  Required: index.php
+  * [ x]  Required: show.php
+  * [ x]  Required: new.php
   * [ ]  Required: edit.php
 
 6\. [ ]  Required: Complete Staff CMS for Territories
-  * [x]  Required: index.php
-  * [x]  Required: show.php
-  * [x]  Required: new.php
+  * [ x]  Required: index.php
+  * [ x]  Required: show.php
+  * [ x]  Required: new.php
   * [ ]  Required: edit.php
 
 7\. [ ]  Required: Add Data Validations
-  * [x]  Required: Validate that no values are left blank.
-  * [x]  Required: Validate that all string values are less than 255 characters.
-  * [x]  Required: Validate that usernames contain only the whitelisted characters.
-  * [x]  Required: Validate that phone numbers contain only the whitelisted characters.
-  * [x]  Required: Validate that email addresses contain only whitelisted characters.
+  * [ x]  Required: Validate that no values are left blank.
+  * [ x]  Required: Validate that all string values are less than 255 characters.
+  * [ x]  Required: Validate that usernames contain only the whitelisted characters.
+  * [ x]  Required: Validate that phone numbers contain only the whitelisted characters.
+  * [ x]  Required: Validate that email addresses contain only whitelisted characters.
   * [ ]  Required: Add *at least 5* other validations of your choosing.
 
 8\. [ ]  Required: Sanitization
