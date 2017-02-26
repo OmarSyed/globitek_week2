@@ -13,29 +13,29 @@ The following **required** functionality is completed:
 3 \. [x]  Required: Review code for Staff CMS for Users
 
 4\. [ ]  Required: Complete Staff CMS for Salespeople
-  * [ x]  Required: index.php
-  * [ x]  Required: show.php
-  * [ x]  Required: new.php
+  * [x]  Required: index.php
+  * [x]  Required: show.php
+  * [x]  Required: new.php
   * [ ]  Required: edit.php
 
 5\. [ ]  Required: Complete Staff CMS for States
-  * [ x]  Required: index.php
-  * [ x]  Required: show.php
-  * [ x]  Required: new.php
+  * [x]  Required: index.php
+  * [x]  Required: show.php
+  * [x]  Required: new.php
   * [ ]  Required: edit.php
 
 6\. [ ]  Required: Complete Staff CMS for Territories
-  * [ x]  Required: index.php
-  * [ x]  Required: show.php
-  * [ x]  Required: new.php
+  * [x]  Required: index.php
+  * [x]  Required: show.php
+  * [x]  Required: new.php
   * [ ]  Required: edit.php
 
 7\. [ ]  Required: Add Data Validations
-  * [ x]  Required: Validate that no values are left blank.
-  * [ x]  Required: Validate that all string values are less than 255 characters.
-  * [ x]  Required: Validate that usernames contain only the whitelisted characters.
-  * [ x]  Required: Validate that phone numbers contain only the whitelisted characters.
-  * [ x]  Required: Validate that email addresses contain only whitelisted characters.
+  * [x]  Required: Validate that no values are left blank.
+  * [x]  Required: Validate that all string values are less than 255 characters.
+  * [x]  Required: Validate that usernames contain only the whitelisted characters.
+  * [x]  Required: Validate that phone numbers contain only the whitelisted characters.
+  * [x]  Required: Validate that email addresses contain only whitelisted characters.
   * [ ]  Required: Add *at least 5* other validations of your choosing.
 
 8\. [ ]  Required: Sanitization
